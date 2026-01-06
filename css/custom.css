@@ -1047,7 +1047,7 @@ header.main-header .header-sticky.active{
     top: 0;
     font-size: 18px;
     font-weight: 400;
-    color: var(--accent-color);
+    color: white;
 }
 
 /************************************/
